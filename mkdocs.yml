@@ -1,0 +1,17 @@
+site_name: Instagram Profile Manager
+repo_url: https://github.com/viniciusfortunato/instagram
+repo_name: viniciusfortunato/instagram
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: pt-BR
+
+  logo: assets/logo.png
+  favicon: assets/logo.png
+
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - attr_list
